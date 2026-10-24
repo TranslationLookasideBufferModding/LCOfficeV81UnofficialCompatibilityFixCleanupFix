@@ -1,0 +1,16 @@
+local.settings.json
+artifacts/
+tests/UnityHarness/Library/
+tests/UnityHarness/Logs/
+tests/UnityHarness/Temp/
+tests/UnityHarness/UserSettings/
+tests/UnityHarness/obj/
+tests/UnityHarness/Assets/Test*.unity*
+*.csproj
+*.sln
+*.user
+*.suo
+.vs/
+.idea/
+Thumbs.db
+Desktop.ini

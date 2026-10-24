@@ -1,0 +1,11 @@
+{
+  "name": "LCOfficeV81UnofficialCompatibilityFixCleanupFix",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "description": "Cleans up leftover LC Office elevators, storage, collision and pathfinding links after departure when using the v81 compatibility patch. Required on all players.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Piggy-LC_Office-2.3.4",
+    "MonkeySolutions-LC_Office_v81_Unofficial_Compatibility_Fix-2.0.0"
+  ]
+}
