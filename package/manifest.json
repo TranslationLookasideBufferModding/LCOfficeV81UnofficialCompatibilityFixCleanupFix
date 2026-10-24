@@ -1,7 +1,7 @@
 {
   "name": "LCOfficeV81UnofficialCompatibilityFixCleanupFix",
   "version_number": "0.1.0",
-  "website_url": "",
+  "website_url": "https://github.com/TranslationLookasideBufferModding/LCOfficeV81UnofficialCompatibilityFixCleanupFix.git",
   "description": "Cleans up leftover LC Office elevators, storage, collision and pathfinding links after departure when using the v81 compatibility patch. Required on all players.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
